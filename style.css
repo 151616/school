@@ -1,0 +1,69 @@
+#map
+{
+width: 50%;
+float: left;
+padding-top: 5px;
+}
+
+.contact_1 h3
+{
+display: inline;
+}
+.contact_1 a
+{
+text-shadow: none;
+}
+#footer{
+height: 20px;
+background-color:white;
+  }
+
+input
+{
+background: grey;
+}
+
+.announcement{
+background-color:black;
+width: 100%;
+height: 30px;
+}
+
+#marqueeStyle{
+width:100%;
+height:100px;
+color: beige;
+font-size:120%;
+}
+
+#video{
+width:100%;
+height:500px;
+border: none;
+}
+my-picture{
+font-size: 50px;
+border-radius: 50;
+}
+marqee-label{
+color: black;
+text-decoration: none;
+}
+html{
+scroll-behavior: smooth;
+}
+body{
+text-align: center;
+background-color: aliceblue;
+}
+label{
+font-size: 25px;
+color:cadetblue;
+}
+#welcome {
+    color: #FFFFFF;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+img{
+    font-size: 100px;
+}
